@@ -1,0 +1,53 @@
+ body {
+        padding-top: 120px;
+        padding-bottom: 40px;
+      }
+
+.block {
+	padding:5px 20px !important;
+}	  
+.form-item {
+	text-align:left;
+	margin:5px 0px;
+}	  
+
+.item-list {
+	text-align:left;
+}
+
+.item-list ul li {
+	list-style:none;
+}
+
+.menu li.leaf {
+	list-style:none;
+}
+	  .nav li {
+	  padding-top: 5px;
+	  }
+	  
+	  .sidebar-nav {
+        padding: 9px 0;
+      }
+	
+
+.well {
+background-image: url('/twitter-bootstrap/images/gridbg.gif');
+  background-repeat:repeat;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+.nav .nav-header {
+font-size: 18px;
+color:#FF9900;
+}
+
+table input, textarea, select, .uneditable-input {
+	margin-bottom:0px !important;
+}
+
+label input, label textarea, label select { display:inline; }
+fieldset { margin-bottom:30px !important; }
+fieldset div { padding-left:10px; }
